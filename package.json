@@ -1,0 +1,11 @@
+{
+  "name": "civetdb",
+  "version": "1.0.0",
+  "description": "Schema less quick database to assisst in building small projects without going through the hassle of setting up NoSQL databases.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
