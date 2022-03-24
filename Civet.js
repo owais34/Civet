@@ -163,6 +163,4 @@ class Civet{
 const civetInstance=new Civet()
 
 
-module.exports={
-    civetInstance
-}
+module.exports=civetInstance

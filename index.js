@@ -1,2 +1,2 @@
-const {civetInstance}=require('./Civet')
+const civetInstance=require('./Civet')
 
